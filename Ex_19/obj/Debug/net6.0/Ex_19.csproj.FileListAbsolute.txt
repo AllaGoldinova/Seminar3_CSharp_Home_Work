@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\bin\Debug\net6.0\Ex_19.exe
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\bin\Debug\net6.0\Ex_19.deps.json
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\bin\Debug\net6.0\Ex_19.runtimeconfig.json
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\bin\Debug\net6.0\Ex_19.dll
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\bin\Debug\net6.0\Ex_19.pdb
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\obj\Debug\net6.0\Ex_19.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\obj\Debug\net6.0\Ex_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\obj\Debug\net6.0\Ex_19.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\obj\Debug\net6.0\Ex_19.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\obj\Debug\net6.0\Ex_19.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\obj\Debug\net6.0\Ex_19.dll
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\obj\Debug\net6.0\refint\Ex_19.dll
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\obj\Debug\net6.0\Ex_19.pdb
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\obj\Debug\net6.0\Ex_19.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Seminar3_CSharp_Home_work\Ex_19\obj\Debug\net6.0\ref\Ex_19.dll
